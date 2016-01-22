@@ -1,0 +1,5 @@
+//: ErasureAndInheritance.java
+
+class GenericBaseT> {
+	
+}
